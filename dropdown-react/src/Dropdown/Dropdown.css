@@ -1,0 +1,20 @@
+.dropdown{
+    padding: 50px;
+    font-size: 16px;
+    size: 0ch;
+    border: none;
+  }
+  
+  .dropdown-container{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    margin-left: 10px;
+  }
+
+  .btn{
+    background-color: mediumturquoise;
+   border-radius: 0;
+    margin-left: 10px;
+  }
+ 
